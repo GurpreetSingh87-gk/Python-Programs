@@ -1,5 +1,5 @@
 # Fundamental Of Python :-
-
+'''
 print("Q-1. Print five subjects marks and calculate their Total & Average.")
 
 E=69
@@ -53,5 +53,6 @@ Area_of_Semi=Radius*Radius
 
 print("Radius:",Radius)
 print("Area of Semi-circle:",Area_of_Semi)
+'''
 
 
