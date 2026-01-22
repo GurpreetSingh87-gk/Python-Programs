@@ -6,14 +6,22 @@ Each program focuses on a specific concept of Python to help beginners understan
 ---
 
 ## 📚 Topics Covered
-- Fundamentals of Python  
-- Arithmetic & Assignment Operators  
-- Conditional Statements (If, Elif, Nested If Else)  
-- Loops (While Loop, For Loop)  
-- Lists, Tuples, and Dictionaries  
-- Functions and Methods  
-- File Processing  
-- NumPy Basics  
+- Fundamentals of Python
+    
+- Arithmetic & Assignment Operators
+  
+- Conditional Statements (If, Elif, Nested If Else)
+  
+- Loops (While Loop, For Loop)
+  
+- Lists, Tuples, and Dictionaries
+  
+- Functions and Methods
+  
+- File Processing
+  
+- NumPy Basics
+  
 - Data Visualization (Python Charts)
 
 ---
